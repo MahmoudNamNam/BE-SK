@@ -1,0 +1,13 @@
+opencv-python~=4.10.0.84
+numpy~=2.2.1
+colormath~=3.0.0
+tqdm~=4.67.1
+setuptools>=65.6.3
+colorama>=0.4.6
+packaging~=24.2
+requests~=2.32.3
+# API
+fastapi>=0.100.0
+uvicorn[standard]>=0.22.0
+python-multipart>=0.0.6
+inference-sdk>=0.64.0
